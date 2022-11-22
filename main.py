@@ -12,7 +12,7 @@ import search
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     list = []
-    print("enter numbers of different stuff: ")
+    print("enter the number of different stuff: ")
     numberOfstuffFromUser = input()
     numberOfstuffFromUser = int(numberOfstuffFromUser)
     for i in range(0, numberOfstuffFromUser):
